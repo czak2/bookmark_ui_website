@@ -1,0 +1,10 @@
+import logo from "./logo-bookmark.svg";
+import logo2 from "./logo-bookmark-white.png";
+import hero from "./hero-bg.png";
+import image1 from "./illustration-features-tab-1.png";
+import image2 from "./illustration-features-tab-2.png";
+import image3 from "./illustration-features-tab-3.png";
+import chrome from "./logo-chrome.svg";
+import firefox from "./logo-firefox.svg";
+import opera from "./logo-opera.svg";
+export { logo, hero, image1, image2, image3, chrome, firefox, opera, logo2 };
